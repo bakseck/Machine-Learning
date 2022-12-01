@@ -1,0 +1,43 @@
+Machine learning is a way of taking data and turning it into insights. We use a computer power to analyze examples from
+the pat to build a model that can predict the rsult for new examples.
+We encounter machine learning models every day. For example, when Netflix recommends a show to you, they used a model 
+based on what you and other users have watched to predict what you would like. When Amazon chooses a price for an item,
+they use a model based on how similar items have sold in the past.
+We will learn several techniques for solving machine learning problems.
+One of the most common language used by Machine Learning professionals is Python.
+We will be use several Python packages that are helpful in solving Machine Learning problems. 
+We will be using PANDAS, NUMPY, MATPLOTLIB and SCIKIT-LEARN.
+PANDAS is used for reading data and data manipulation.
+NUMPY is used for computations of numerical data.
+MATPLOTLIB is used for graphing data.
+SCIKIT-LEARN is used for machine learning models.
+Each of these packages is quite extensive, but we will also review the functions we will be using.
+We will also review some basic statistics as it is the foundation of machine learning.
+In Machine Learning, we talk about SUPERVISED and UNSUPERVISED learning. SUPERVISED learning is when we have a know 
+on past(for example, predicting what price a house will sell for) and UNSUPERVISED learning is when there isn't a know
+past answer(for example, determining the topics discussed in restaurant reviews).
+
+We will be focusing on SUPERVISED learning, Within SUPERVISED learning, there are CLASSIFICATION and REGRESSION problems.
+REGRESSION is predicting a numerical value (for example, predicting what price a house will sell for) and CLASSIFICATION
+is predicting class something belongs to (for example, predicting if a borrower will default on their loan).
+
+We'll be focusing on CLASSIFICATION problems. 
+These are problems where we're predicting which class something belongs to.
+
+Our example will include :
+-Predicting who would survive the Titanic crash ;
+-Determining a handwritten digit from an image ;
+-Using biopsy data to classify if a lump is cancerous.
+
+We will be using a number of popular techniques to tackle these problems. We will get into each of them in more detail in
+upcoming modules:
+- Logistic Regression 
+- Decision Trees 
+- Random Forests
+- Neural Networks
+
+At the end of this course, you'll be abble to take a classification dataset and use Python to build several different 
+models to determine the best model for the given problem.
+
+
+Machine Learning can be used to solve a broad range of problems. This course will focus on SUPERVISED Learning and CLASSIFICATION.
